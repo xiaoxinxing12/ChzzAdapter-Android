@@ -14,7 +14,7 @@
 ```groovy
 dependencies {
     compile 'com.android.support:recyclerview-v7:latestVersion'
-    compile 'cn.bingoogolapple:bga-adapter:latestVersion@aar'
+    compile 'org.chzz:adapter:latestVersion@aar'
 }
 ```
 
